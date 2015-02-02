@@ -9,6 +9,10 @@ Download `dist/mouseheld.js` from the repo in raw and include it in your html us
 
     <script src='lib/mouseheld.js'></script>
 
+or if you are using `bower` as your package manager, simply run
+
+    bower install mouseheld
+
 Usage
 -----
 Attach the event to a node as below,
