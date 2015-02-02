@@ -1,0 +1,27 @@
+{
+  "name": "mouseheld",
+  "title": "mouseheld",
+  "description": "A jQuery plugin to handle mouseheld events",
+  "keywords": [
+    "event",
+    "mouse"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Anoop Elias",
+    "email": "anoopelias@gmail.com"
+  },
+  "licenses": [
+  {
+    "type": "MIT",
+    "url": "https://github.com/anoopelias/mouseheld/blob/master/LICENSE.md"
+  }
+  ],
+  "bugs": "https://github.com/anoopelias/mouseheld/issues",
+  "homepage": "https://github.com/anoopelias/mouseheld",
+  "docs": "https://github.com/anoopelias/mouseheld/blob/master/README.md",
+  "download": "https://raw.githubusercontent.com/anoopelias/mouseheld/master/dist/mouseheld.js",
+  "dependencies": {
+    "jquery": ">=1.5"
+  }
+}
