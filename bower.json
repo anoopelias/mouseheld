@@ -1,0 +1,19 @@
+{
+  "name": "mouseheld",
+  "version": "0.0.1",
+  "authors": [
+    "Anoop Elias <anoopelias@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
