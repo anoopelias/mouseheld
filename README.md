@@ -13,7 +13,7 @@ Usage
 -----
 Attach the event to a node as below,
 
-  var i = 0;
+    var i = 0;
     $('#link').mouseheld(function() {
       i++;
     });
