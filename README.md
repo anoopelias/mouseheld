@@ -20,6 +20,12 @@ Attach the event to a node as below,
 
 The parameter is a step function which will get executed continuously till the mouse key is held. This [fiddle](http://jsfiddle.net/bnesu3h9/7/) will give an idea.
 
+To unbind the event, use the `remove` function,
+
+    $('#link').mouseheld('remove');
+
+If you want to attach a different function than the current one, you will have to remove the current one first.
+
 Credits
 -----
-The original idea of this plugin came from [this](http://stackoverflow.com/a/28127763/1328888) stack overflow answer.
+The original idea of this plugin came from [this](http://stackoverflow.com/a/28127763/1328888) Stack Overflow answer.
