@@ -1,4 +1,4 @@
-grunt-karma-bower-template
+mouseheld
 ==========================
 
-Template for javascript projects
+A jQuery plugin to handle mouseheld event
