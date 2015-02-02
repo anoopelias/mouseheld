@@ -11,7 +11,7 @@ Download `dist/mouseheld.js` from the repo in raw and include it in your html us
 
 or if you are using `bower` as your package manager, simply run
 
-    bower install mouseheld
+    $ bower install mouseheld
 
 Usage
 -----
