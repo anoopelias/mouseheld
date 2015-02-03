@@ -79,7 +79,7 @@ describe("Mouseheld", function() {
 
   });
 
-  it("should be 7 after 1 second mousedown", function(done) {
+  it("should be 6 after 1 second mousedown", function(done) {
     $('#link').mousedown();
 
     setTimeout(function() {
