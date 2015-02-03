@@ -1,11 +1,14 @@
 {
   "name": "mouseheld",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A jquery plugin to handle mouseheld event",
   "author": "Anoop Elias <anoopelias@gmail.com",
   "main": "dist/mouseheld.js",
   "engines": {
     "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
