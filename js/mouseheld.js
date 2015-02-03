@@ -41,6 +41,7 @@
 
   Mouseheld.prototype.remove = function() {
     $(this.element).unbind('.mouseheld');
+    $(document).unbind('.mouseheld');
   };
 
   Mouseheld.prototype._defaults = function(options) {
